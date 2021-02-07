@@ -1,6 +1,7 @@
-/* rs-theme-name: My theme*/
+/* rs-theme-name: Bruna*/
 /* rs-theme-is-dark: TRUE */
 /* Created by Bruna Wundervald */
+/* Edited by Y. Perez-Llano */
 
 .ace_gutter {
   background: #D9DDDC;
@@ -85,7 +86,7 @@
 }
 
 .ace_constant.ace_other {
-  color: #f5c04a;
+  color: #053dda;
 }
 
 .ace_support.ace_function {
@@ -138,7 +139,7 @@
 }
 
 .ace_comment {
-  color: #4b4d71;
+  color: #10de36;
 
 }
 
